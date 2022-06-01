@@ -13,7 +13,7 @@ import time
 from motor.motor_asyncio import AsyncIOMotorClient as MongoClient
 from pyrogram import Client
 
-import config
+
 
 loop = asyncio.get_event_loop()
 boot = time.time()

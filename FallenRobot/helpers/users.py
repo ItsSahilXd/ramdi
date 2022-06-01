@@ -8,7 +8,7 @@
 # All rights reserved.
 #
 
-from Yukki import db
+from FallenRobot import db
 
 usersdb = db.users
 
